@@ -1,0 +1,16 @@
+[
+  {
+    "user_id": 1,
+    "name": "Alice",
+    "workouts": [
+      {"date": "2025-09-18", "steps": 5000, "calories": 200}
+    ]
+  },
+  {
+    "user_id": 2,
+    "name": "Bob",
+    "workouts": [
+      {"date": "2025-09-18", "steps": 7000, "calories": 300}
+    ]
+  }
+]
