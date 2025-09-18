@@ -40,12 +40,10 @@ The project is part of a data handling and analysis exercise to strengthen skill
 ## Run the Project 
   -python main.py
 **This will show:**
-  -Load CSV, JSON, and Excel data.
-  -Display loaded data in the console.
-  -Generate comparison graphs in reports/.
-  -Convert CSV → JSON and JSON → Excel.
+  - Load CSV, JSON, and Excel data.
+  - Display loaded data in the console.
+  - Generate comparison graphs in reports/.
+  - Convert CSV → JSON and JSON → Excel.
 
 
-
-## Project Structure
 
