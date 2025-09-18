@@ -38,7 +38,7 @@ The project is part of a data handling and analysis exercise to strengthen skill
    -pip install pandas openpyxl xlrd matplotlib seaborn
    
 ## Run the Project 
-  -python main.py
+  - python main.py
 **This will show:**
   - Load CSV, JSON, and Excel data.
   - Display loaded data in the console.
