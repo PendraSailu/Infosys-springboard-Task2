@@ -35,7 +35,7 @@ The project is part of a data handling and analysis exercise to strengthen skill
 <img width="373" height="458" alt="image" src="https://github.com/user-attachments/assets/20fda0db-152c-49f7-8c30-67311f5bc8b7" />
 
 ## Install Dependencies
-   -pip install pandas openpyxl xlrd matplotlib seaborn
+   - pip install pandas openpyxl xlrd matplotlib seaborn
    
 ## Run the Project 
   - python main.py
